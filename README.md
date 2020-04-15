@@ -1,2 +1,2 @@
 # Practice
-Using for practice case only
+Using for practice purpose only
